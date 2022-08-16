@@ -1,8 +1,8 @@
 # BlackJack
 Recursion Project 5
 
-#What I learned
+## What I learned
 MVC
 
-#Link
+### Link
 https://takeshi8989.github.io/BlackJack/
